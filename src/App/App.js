@@ -4,9 +4,8 @@ const App = ()=> {
   return (
     <>
       <SideMenu />
-      <div>Here we gooo</div>
+      <div>Here we gooo nowowowowowiiririr n kjfklsjg klgjghghsg ghshgkgh</div>
     </>
-
 
   );
 }
