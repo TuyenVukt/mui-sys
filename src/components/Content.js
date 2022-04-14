@@ -11,6 +11,11 @@ class Content extends Component {
         return (
             <div>
                 This is main content!!! edit here heheheheh
+                CHANGE HERE FOR fetch hahaha
+                CHANGE HERE FOR fetch hahaha
+                CHANGE HERE FOR fetch hahaha
+                CHANGE HERE FOR fetch hahaha
+                
             </div>
         );
     }
